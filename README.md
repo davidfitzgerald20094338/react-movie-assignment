@@ -28,10 +28,12 @@ $ npm install
 ## TMDB endpoints.
 
 + /movies/top_rated - Top Rated Movies
-+ /tv/popular - Popular TV Shows
-+ /tv/{tv_id} - TV Show Details
-+ /tv/favourites - Favourite TV Shows
 + /movies/watch_list - Watch List Movies
++ /tv/popular - Popular TV Shows
++ /tv/favourites - Favourite TV Shows
++ /tv/{tv_id} - TV Show Details
+
+
 
 ## App Design.
 
