@@ -61,3 +61,11 @@ $ npm install
 
 >gives info on tv show
 
+### Routing.
+
++ /movies/top_rated - Displays a list of Top Rated movies.
++ /movies/watch_list - Displays a list of watch list movies.
++ /tv/popular - Displays a list of Popular TV Shows.
++ /tv/favourites - Displays a list of favourite TV Shows.
++ /tv/:id - Displays details on a specific TV Show.
+
