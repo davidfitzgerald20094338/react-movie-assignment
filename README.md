@@ -37,5 +37,6 @@ $ npm install
 
 ### Component catalogue.
 
-![Storybook][Component catalogue](https://github.com/davidfitzgerald20094338/react-movie-assignment/assets/74902396/9920b3c6-4a78-4ee6-a230-d5ca9db4d7e3)
+![Component catalogue](https://github.com/davidfitzgerald20094338/react-movie-assignment/assets/74902396/9e89370c-b773-43bd-9075-a563a87a75f9)
+
 
