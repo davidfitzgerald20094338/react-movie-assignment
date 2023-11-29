@@ -36,3 +36,5 @@ $ npm install
 ## App Design.
 
 ### Component catalogue.
+
+![Storybook](C:\Users\davef\Downloads\reactMovieAssignment\movies\images\Component catalogue.png)
