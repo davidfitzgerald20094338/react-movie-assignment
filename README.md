@@ -7,10 +7,11 @@ Name: David Fitzgerald
 ### New Pages.
 
 + List of Top Rated Movies
-+ List of Popular TV Shows
-+ TV Show Details 
-+ List of Favourite TV Shows
 + List of Watch List Movies
++ List of Popular TV Shows
++ List of Favourite TV Shows
++ TV Show Details 
+
 
 ### New Features.
 
